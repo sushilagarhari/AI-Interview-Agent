@@ -30,4 +30,4 @@ This project simulates a Data Science mock interview. It asks a series of techni
 4. Run all cells and answer the interview questions as prompted
 
 ## Author
-Sushil Agrahari — B.Tech Data Science, AKTU
+Sushil Agarhari — B.Tech Data Science, AKTU
